@@ -14,4 +14,6 @@
 	include 'include/parametres.inc.php';
 	
 	include ROOTING;
+	
+	//TEST
 ?>
